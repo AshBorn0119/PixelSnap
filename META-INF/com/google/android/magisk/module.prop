@@ -1,0 +1,7 @@
+id=PixelSnap
+name=PixelSnap
+version=v1.0
+versionCode=10
+author=AshBorn(@Ripper_Hybrid)
+description=PixelSnap enables unlimited Google Photos backup directly within the system framework.
+updateJson=https://raw.githubusercontent.com/RipperHybrid/PixelSnap/Master/update.json
